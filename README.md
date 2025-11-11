@@ -477,5 +477,5 @@ pytest tests/ -v
 
 ---
 
-**Versi Dokumentasi**: 1.0.0  
+**Versi Dokumentasi**: 8.7.1
 **Terakhir Diperbarui**: November 2025

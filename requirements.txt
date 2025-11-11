@@ -1,0 +1,20 @@
+# API dan data model
+fastapi>=0.110.0,<1.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.5.0,<3.0
+
+# ML baseline (retrieval)
+scikit-learn>=1.1.0
+joblib>=1.2.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# ORM & Database
+SQLAlchemy>=2.0.0
+PyMySQL>=1.1.0
+
+# Transformers (opsional, aktif bila CHATBOT_USE_TRANSFORMERS=1)
+transformers>=4.40.0
+torch>=2.2.0
+sentencepiece>=0.1.99
+accelerate>=0.21.0
